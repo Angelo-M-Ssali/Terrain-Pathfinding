@@ -1,0 +1,2 @@
+Metric name: Total Elevation Change
+Best Path Metric: 25910
