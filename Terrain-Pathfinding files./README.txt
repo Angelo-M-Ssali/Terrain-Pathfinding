@@ -1,5 +1,5 @@
-CS 111 Project 5 - README
-=============================
+Project  - Algorithm Description
+=================================
 DEFINITION OF "BEST"
 --------------------
 My algorithm defines "best" as the flattest path possible. Meaning the path that 
